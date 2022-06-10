@@ -1,0 +1,8 @@
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\bin\Debug\TestApp.exe
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\obj\Debug\TestApp.exe
+C:\Users\Devran\source\repos\XpodaParasutAddon\TestApp\obj\Debug\TestApp.pdb

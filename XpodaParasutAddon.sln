@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpodaParasutAddon", "XpodaParasutAddon\XpodaParasutAddon.csproj", "{4EC00E3E-B033-48DD-9F20-0263A64B65BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{8D1FE63B-F8B7-4B2F-9FE5-2DBE7907F404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC00E3E-B033-48DD-9F20-0263A64B65BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC00E3E-B033-48DD-9F20-0263A64B65BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC00E3E-B033-48DD-9F20-0263A64B65BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC00E3E-B033-48DD-9F20-0263A64B65BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1FE63B-F8B7-4B2F-9FE5-2DBE7907F404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1FE63B-F8B7-4B2F-9FE5-2DBE7907F404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1FE63B-F8B7-4B2F-9FE5-2DBE7907F404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1FE63B-F8B7-4B2F-9FE5-2DBE7907F404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36793440-2120-4BD6-B587-751C165F7585}
+	EndGlobalSection
+EndGlobal
